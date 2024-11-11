@@ -35,4 +35,7 @@ git log
 ```
 git push origin <branch-name>
 ```
-
+**Pull Changes from Remote Repository**
+```
+git pull origin <branch-name>
+```
